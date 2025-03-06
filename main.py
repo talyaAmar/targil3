@@ -10,4 +10,5 @@ def printDetails():
     print("Now Tali has also joined")
 
 x=10
+x=x+30
 print(x/2)
