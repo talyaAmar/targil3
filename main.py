@@ -9,3 +9,5 @@ def print_desc():
 def printDetails():
     print("Now Tali has also joined")
 
+x=10
+print(x/2)
